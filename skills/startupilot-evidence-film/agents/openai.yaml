@@ -1,0 +1,4 @@
+interface:
+  display_name: "Startupilot 线索短片"
+  short_description: "用有空间关系的线索组织中文短片，按实录校准语速、字幕和声音落点"
+  default_prompt: "使用 $startupilot-evidence-film 制作一部有中文配音、连续运镜和同步字幕的线索式短片。"
